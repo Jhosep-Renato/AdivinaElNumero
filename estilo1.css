@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+}
+
+div {
+    width: 30%;
+    height: 50px;
+    margin: 0 auto; 
+}
+
+input, button {
+    width: 200px;
+    height: 20px;
+}
